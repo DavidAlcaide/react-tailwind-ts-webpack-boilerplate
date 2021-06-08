@@ -14,7 +14,7 @@
     "tailwindcss",
     "boilerplate"
   ],
-  "author": "Desarrolo Útil",
+  "author": "davidalcaide",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.1",
